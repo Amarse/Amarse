@@ -5,4 +5,4 @@
 - 🎨 UI/UX 디자이너로 활동 했었습니다.
 - 🌱 부지런히 쫒아가고 있는 중 입니다.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amarse&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amarse&layout=compact)
